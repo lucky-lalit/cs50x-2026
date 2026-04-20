@@ -1,0 +1,16 @@
+sort1 uses: Bubble sort
+
+How do you know?: when i ran random50000.txt on sort1 it took 5.77sec but when i ran sorted50000.txt on sort1 it took
+0.54, so on the basis of that i came to know that sort1 is bubble sort because buuble sort takes less time on sorted
+array then random array.
+
+sort2 uses: Merge sort
+
+How do you know?: when i ran random50000.txt on each sort, sort2 took least time.
+
+sort3 uses: Selection sort
+
+How do you know?: when i ran sorted50000.txt on sort3 it took 2.337sec but when i ran sorted50000.txt on sort3 it took
+3.16, so on the basis of that i came to know that sort3 is selection sort because selection sort takes same time on
+sorted
+array and random array.
