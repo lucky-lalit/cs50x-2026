@@ -1,4 +1,4 @@
-#include <cs50.h>
+// #include <cs50.h>
 #include <stdio.h>
 int main(void)
 {
@@ -6,7 +6,7 @@ int main(void)
 //     int *p = &n;
 //     printf("%p\n", p);
 //     printf("%p\n", &n);
-    string s = "HI!";
+    char *s = "HI!";
     printf("%p\n",s);
     printf("%p\n",&s);
     printf("%p\n",&s[0]);
