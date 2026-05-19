@@ -10,7 +10,7 @@ int main()
     char str2[2];
     char str3[4];
 
-    
+    printf("%p\n",str1);
     printf("%s, %u, %d\n",str1,&str1[0],sizeof(str1));
     printf("%s, %u, %d\n",str2,str2,sizeof(str2));
     printf("%s, %u, %d\n",str3,&str3[0],sizeof(str3));
